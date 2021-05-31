@@ -1,0 +1,10 @@
+{
+  "name": "HarpServerTemplate",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "harp src"
+  },
+  "dependencies": {
+    "harp": "^0.40.1"
+  }
+}
